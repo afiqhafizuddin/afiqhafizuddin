@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AFIQHAFIZUDDIN99
+- 👋 Hi, I’m @afiqhafizuddin
 - 👀 I’m interested in fullstack web development, Python development, and JavaScript programming
 - 🌱 I’m currently learning web development, programming in Python and JavaScript programming
 - 💞️ I’m looking to collaborate on learning fullstack web development, and Python development
