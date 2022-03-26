@@ -6,6 +6,16 @@
 - 💞️ I’m looking to collaborate on learning fullstack web development, and Python development
 - 📫 How to reach me via my email afiqhafizuddin34@gmail.com. I'm still university student and currently embarked on learning to code journey. Feel free to hit me up to give guidance, encouragement and supports.
 
+---
+
+### **Technologies I'm using and learning**
+
+1. Python
+1. JavaScript
+1. HTML & CSS
+1. VS Code
+1. Git & GitHub
+
 <!---
 AFIQHAFIZUDDIN99/AFIQHAFIZUDDIN99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
