@@ -35,9 +35,13 @@ All repos that start with `learn` prefix indicates it is a study repos. I'm taki
 
 ### **2. course-xxx**
 
-All repos that start with `course` indicates it's a repo that is used for special and lengthy courses such as Professional Certificates, Specialization programs offered by **Coursera**, and **edX** to name a few. And yes, I do like taking online courses, both free and paid. That is my commitment.
+All repos that start with `course` indicates it's a repo that is used for courses or programs offered by **Coursera**, and **edX** to name a few. And yes, I do like taking online courses, both free and paid. That is my commitment.
 
-### **3. miscellaneous**
+### **3. cert-xxx**
+
+All repos that start wiht `cert` indicates it's a repo that is used for certificates program offered by Coursera or edX.
+
+### **4. miscellaneous**
 
 All repos that does not follow the aforementioned naming convention are not learning repo nor course repo. It's probably my own works or my punching bag of GitHub 😅.
 
