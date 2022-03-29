@@ -39,7 +39,7 @@ All repos that start with `course` indicates it's a repo that is used for course
 
 ### **3. cert-xxx**
 
-All repos that start wiht `cert` indicates it's a repo that is used for certificates program offered by Coursera or edX.
+All repos that start wiht `cert` indicates it's a repo that is used for certificates program or specialization programs offered by Coursera or edX.
 
 ### **4. miscellaneous**
 
