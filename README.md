@@ -1,8 +1,8 @@
 # **About my GitHub Profile**
 
 - 👋 Hi, I’m @afiqhafizuddin
-- 👀 I’m interested in fullstack web development, Python development, and JavaScript programming
-- 🌱 I’m currently learning web development, programming in Python and JavaScript programming
+- 👀 I’m interested in fullstack web development, Python programming, and JavaScript programming
+- 🌱 I’m currently learning web development, Python programmign, and JavaScript programming
 - 💞️ I’m looking to collaborate on learning fullstack web development, and Python development
 - 📫 How to reach me via my email afiqhafizuddin34@gmail.com. I'm still university student and currently embarked on learning to code journey. Feel free to hit me up to give guidance, encouragement and supports.
 
@@ -43,6 +43,6 @@ All repos that start wiht `cert` indicates it's a repo that is used for certific
 
 ### **4. miscellaneous**
 
-All repos that does not follow the aforementioned naming convention are not learning repo nor course repo. It's probably my own works or my punching bag of GitHub 😅.
+All repos that does not follow the aforementioned naming convention are not learning repo nor course repo. It's probably my own works or my punching bag of GitHub 😅. And also, I do upload my assignments to GitHub. A lot of repos won't make any sense in web development world. Just skip those unrelated repos.
 
 # Thank You for Stopping By!
