@@ -1,10 +1,10 @@
 # **About my GitHub Profile**
 
 - 👋 Hi, I’m @afiqhafizuddin
-- 👀 I’m interested in fullstack web development, Python programming, and JavaScript programming
-- 🌱 I’m currently learning web development, Python programmign, and JavaScript programming
-- 💞️ I’m looking to collaborate on learning fullstack web development, and Python development
-- 📫 How to reach me via my email afiqhafizuddin34@gmail.com. I'm still university student and currently embarked on learning to code journey. Feel free to hit me up to give guidance, encouragement and supports.
+- 👀 I’m learning full stack software development. The tech stacks that I'm currently learning are JavaScript, React.js, Python, .NET, C#, Python and many more.
+- 🌱 I’m currently learning web development, Python programming, JavaScript programming and C# programming and many more.
+- 💞️ I’m looking to collaborate on learning fullstack software development.
+- 📫 How to reach me via my email hafizuddinafiq@gmail.com.
 
 ---
 
@@ -12,7 +12,10 @@
 
 1. Python
 1. JavaScript
+1. C#
+1. .NET
 1. HTML & CSS
+1. Visual Studio
 1. VS Code
 1. Git & GitHub
 
@@ -25,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ## **Repositories Navigation**
 
-I'm a learner in this ever-expanding tech industries. My goals in the year 2022 to is to be able call myself a full-stack web developer. I'm focusing on JavaScript tech stacks such as MERN, MEAN, MEVN. Currently, I'm learning vanilla JavaScript inside out as well as Node.js and also Python.
+I'm a learner in this ever-expanding tech industries. My goals in the year 2022 to is to be able call myself a full-stack web developer. I'm focusing on JavaScript tech stacks such as MERN, MEAN, MEVN. Currently, I'm learning vanilla JavaScript inside out as well as Node.js and also Python and C# as well.
 
 ### **To navigate netween repos**
 
