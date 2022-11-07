@@ -1,4 +1,4 @@
-# **About my GitHub Profile**
+# **Welcome**
 
 - 👋 Hi, I’m @afiqhafizuddin
 - 👀 I’m learning full stack software development. The tech stacks that I'm currently learning are JavaScript, React.js, Python, .NET, C#, Python and many more.
@@ -47,5 +47,3 @@ All repos that start wiht `cert` indicates it's a repo that is used for certific
 ### **4. miscellaneous**
 
 All repos that does not follow the aforementioned naming convention are not learning repo nor course repo. It's probably my own works or my punching bag of GitHub 😅. And also, I do upload my assignments to GitHub. A lot of repos won't make any sense in web development world. Just skip those unrelated repos.
-
-# Thank You for Stopping By!
