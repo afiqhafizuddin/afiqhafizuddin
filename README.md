@@ -9,7 +9,7 @@
 <img src="./assets/linkedin.png"  width="50" height="50"></a>
 
 <a href="https://instagram.com/afiqcodes?igshid=YmMyMTA2M2Y=" target="_blank">
-<img src="./assets/instagram.jpg" width="50" height="50"></a>
+<img src="./assets/instagram-new.png" width="50" height="50"></a>
 </p>
 </div>
 
