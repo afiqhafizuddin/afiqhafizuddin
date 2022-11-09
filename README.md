@@ -46,17 +46,6 @@
 
 ---
 
-### **Technologies I'm using and learning**
-
-1. Python
-1. JavaScript
-1. C#
-1. .NET
-1. HTML & CSS
-1. Visual Studio
-1. VS Code
-1. Git & GitHub
-
 <!---
 AFIQHAFIZUDDIN99/AFIQHAFIZUDDIN99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
