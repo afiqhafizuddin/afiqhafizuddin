@@ -48,6 +48,13 @@
 
 ---
 
+</br>
+<p align=center>
+<a href="#" alt="Afiq GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=afiqhafizuddin&theme=tokyonight&show_icons=true">
+</a>
+</p>
+
 <!---
 AFIQHAFIZUDDIN99/AFIQHAFIZUDDIN99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
