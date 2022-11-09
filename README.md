@@ -16,25 +16,25 @@
 <h2 align="center"><strong>Professional Skills That I'm Learning</strong></h2>
 
 <div align="center">
- <a src="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img src="./assets/csharp.svg" width="50" height="50"></ing></a>
 
-<a src="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
+<a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
 <img src="./assets/dotnet.png" width="50" height="50"></a>
 
-<a src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="./assets/javascript-original.svg" width="50" height="50"></a>
 
-<a src="https://www.typescriptlang.org/docs/" target="_blank">
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
 <img src="./assets/typescript-original.svg" width="50" height="50"></a>
 
-<a src="https://docs.python.org/3/" target="_blank">
+<a href="https://docs.python.org/3/" target="_blank">
 <img src="./assets/py.png" width="50" height="50"></a>
 
-<a src="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="./assets/html.png" width="50" height="50"></a>
 
-<a src="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="./assets/css.png" width="50" height="50"></a>
 </div>
 
