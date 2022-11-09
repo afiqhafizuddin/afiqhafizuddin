@@ -38,6 +38,8 @@
 <img src="./assets/css.png" width="50" height="50"></a>
 </div>
 
+---
+
 - 👋 Hi, I’m @afiqhafizuddin
 - 👀 I’m learning full stack software development. The tech stacks that I'm currently learning are JavaScript, React.js, Python, .NET, C#, Python and many more.
 - 🌱 I’m currently learning web development, Python programming, JavaScript programming and C# programming and many more.
