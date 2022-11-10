@@ -34,6 +34,9 @@ Console.WriteLine("Hello, World!");
 <a href="https://www.typescriptlang.org/docs/" target="_blank">
 <img src="./assets/typescript-original.svg" width="50" height="50"></a>
 
+<a hre="https://nodejs.org/en/" target="_blank">
+<img src="./assets/node-js-apple.png" width=50 height=50></a>
+
 <a href="https://docs.python.org/3/" target="_blank">
 <img src="./assets/py.png" width="50" height="50"></a>
 
