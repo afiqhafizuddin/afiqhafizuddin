@@ -1,4 +1,10 @@
-<h1 align="center"><strong>Hello, World! My name is Afiq 👋🙋‍♂️</strong></h1>
+<h1 align="center"><strong>
+
+```cs
+Console.WriteLine("Hello, World!);
+```
+
+</strong></h1>
 
 <div align="center">
 <p>
@@ -40,22 +46,48 @@
 
 ---
 
-- 👋 Hi, I’m @afiqhafizuddin
-- 👀 I’m learning full stack software development. The tech stacks that I'm currently learning are JavaScript, React.js, Python, .NET, C#, Python and many more.
-- 🌱 I’m currently learning web development, Python programming, JavaScript programming and C# programming and many more.
-- 💞️ I’m looking to collaborate on learning fullstack software development.
-- 📫 How to reach me via my email hafizuddinafiq@gmail.com.
+<div align="center">
+<h2><strong>Welcome, I'm Afiq</strong></h2>
+</div>
+
+- I'm a self-taught software developer from Malaysia.
+- My main interests mainly revolve around C#, .NET, JavaScript, TypeScript and fullstack web development.
+- Currently, I'm devoted to learn C#, and .NET to build applications from the ground up.
+- Started my journey from December 2021 and still going strong, I have accummulated theoretical experience in Python, JavaScript and front-end techs such as HTML and CSS.
+- My endgame is to be able to call my self a fullstack software engineer and become hireable by companies from multiple sectors and niches.
+- My GitHub profile acts as a medium to showcase my dedication of learning software development while presenting to the world my capabilities of building in public.
+
+---
+
+<h2 align="center"><strong>Dev Tools I'm Using for My Learning</strong></h2>
+
+<div align="center">
+<p>
+
+<!-- Visual Studio -->
+<a href="" target="_blank">
+<img src="./assets/visual-studio.png" width=50 height=50></a>
+
+<!-- VS Code -->
+<a href="" target="_blank">
+<img src="./assets/visual-studio-code.png" width=50 height=50></a>
+
+<!-- GitHub -->
+<a href="" target="_blank">
+<img src="./assets/github.png" width=50 height=50></a>
+
+<!-- Azure DevOps -->
+<a href="" target="_blank">
+<img src="./assets/azure-devops.ico" width=50 height=50></a>
+
+</p>
+</div>
 
 ---
 
 </br>
 <p align=center>
 <a href="#" alt="Afiq GitHub Statistics">
-<img src="https://github-readme-stats.vercel.app/api?username=afiqhafizuddin&theme=tokyonight&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=afiqhafizuddin&theme=prussian&show_icons=true">
 </a>
 </p>
-
-<!---
-AFIQHAFIZUDDIN99/AFIQHAFIZUDDIN99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
