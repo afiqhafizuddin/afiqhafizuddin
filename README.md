@@ -1,7 +1,7 @@
 <h1 align="center"><strong>
 
 ```cs
-Console.WriteLine("Hello, World!);
+Console.WriteLine("Hello, World!");
 ```
 
 </strong></h1>
