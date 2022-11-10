@@ -72,6 +72,10 @@ Console.WriteLine("Hello, World!");
 <a href="" target="_blank">
 <img src="./assets/visual-studio-code.png" width=50 height=50></a>
 
+<!-- Git -->
+<a href="" target="_blank">
+<img src="./assets/git.png" width=50 height=50></a>
+
 <!-- GitHub -->
 <a href="" target="_blank">
 <img src="./assets/github.png" width=50 height=50></a>
