@@ -53,12 +53,12 @@ Console.WriteLine("Hello, World!");
 <h2><strong>Welcome, I'm Afiq</strong></h2>
 </div>
 
-- I'm a self-taught software developer from Malaysia.
-- My main interests mainly revolve around C#, .NET, JavaScript, TypeScript and fullstack web development.
-- Currently, I'm devoted to learn C#, and .NET to build applications from the ground up.
-- Started my journey from December 2021 and still going strong, I have accummulated theoretical experience in Python, JavaScript and front-end techs such as HTML and CSS.
-- My endgame is to be able to call my self a fullstack software engineer and become hireable by companies from multiple sectors and niches.
-- My GitHub profile acts as a medium to showcase my dedication of learning software development while presenting to the world my capabilities of building in public.
+- 🙋‍♂️ I'm a self-taught software developer from Malaysia.
+- 🧑‍🎓 My main interests mainly revolve around C#, .NET, JavaScript, TypeScript and fullstack web development.
+- 🧑‍💻 Currently, I'm devoted to learn C#, and .NET to build applications from the ground up.
+- ⌚ Started my journey from December 2021 and still going strong, I have accummulated theoretical experience in Python, JavaScript and front-end techstack such as HTML and CSS (and several JS frontend frameworks).
+- ✅ My endgame is to be able to call my self a fullstack software engineer and become hireable by companies from multiple sectors and niches.
+- 🏗️ My GitHub profile acts as a medium to showcase my dedication of learning software development while presenting to the world my capabilities of building in public.
 
 ---
 
@@ -146,3 +146,12 @@ Console.WriteLine("Hello, World!");
 <img src="https://github-readme-stats.vercel.app/api?username=afiqhafizuddin&theme=prussian&show_icons=true">
 </a>
 </p>
+
+<!-- contact section  -->
+
+<div align="center">
+<FORM>
+<INPUT TYPE="button" VALUE="Email Me" onClick="parent.location='mailto:hafizuddinafiq@gmail?subject=Hi!, I've stumbled upon your account on GitHub&cc=afiqhafizuddin34@gmail.com'">
+</FORM>
+
+</div>
