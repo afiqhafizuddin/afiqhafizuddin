@@ -59,6 +59,7 @@ Console.WriteLine("Hello, World!");
 
 ---
 
+<!-- Dev Tools -->
 <h2 align="center"><strong>Dev Tools I'm Using for My Learning</strong></h2>
 
 <div align="center">
@@ -88,6 +89,46 @@ Console.WriteLine("Hello, World!");
 </div>
 
 ---
+
+<!-- Learning Resources -->
+
+<h2 align="center"><strong>My Learning Resources</strong></h2>
+
+<p align="center">Internet is indeed an amazing place to learn, collaborate, and build and deploy applications. Here is the tip of iceberg — my resources.</p>
+
+<!-- links and icons -->
+<div align="center">
+
+<!-- ms learn -->
+<a href="#" alt="ms-learn" target="_blank">
+<img src="./assets/ms-icon.png" width=150 height=25>
+</a>
+
+<!-- edx -->
+<a href="#" alt="edx" target="_blank">
+<img src="./assets/edx-icon.svg" width=100 height=50>
+</a>
+
+<!-- coursera -->
+<a href="#" alt="coursera" target="_blank">
+<img src="./assets/coursera-icon.svg" width=150 height=50>
+</a>
+
+<!-- udemy -->
+<a href="#" alt="udemy" target="_blank">
+<img src="./assets/logo-udemy.svg" width=150 height=50>
+</a>
+
+<!-- odin-project -->
+<a href="#" alt="odin" target="_blank">
+<img src="./assets/odin-project.svg" width=50 height=50>
+</a>
+
+<!-- freecodecamp -->
+<a href="#" alt="odin" target="_blank">
+<img src="./assets/fcc_primary_large.svg" width=150 height=50>
+</a
+</div>
 
 </br>
 <p align=center>
