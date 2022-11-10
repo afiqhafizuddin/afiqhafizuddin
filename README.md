@@ -66,23 +66,23 @@ Console.WriteLine("Hello, World!");
 <p>
 
 <!-- Visual Studio -->
-<a href="" target="_blank">
+<a href="https://visualstudio.microsoft.com/" target="_blank">
 <img src="./assets/visual-studio.png" width=50 height=50></a>
 
 <!-- VS Code -->
-<a href="" target="_blank">
+<a href="https://code.visualstudio.com/" target="_blank">
 <img src="./assets/visual-studio-code.png" width=50 height=50></a>
 
 <!-- Git -->
-<a href="" target="_blank">
+<a href="https://git-scm.com/" target="_blank">
 <img src="./assets/git.png" width=50 height=50></a>
 
 <!-- GitHub -->
-<a href="" target="_blank">
+<a href="https://docs.github.com/en" target="_blank">
 <img src="./assets/github.png" width=50 height=50></a>
 
 <!-- Azure DevOps -->
-<a href="" target="_blank">
+<a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops" target="_blank">
 <img src="./assets/azure-devops.ico" width=50 height=50></a>
 
 </p>
