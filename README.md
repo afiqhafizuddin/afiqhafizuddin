@@ -128,7 +128,7 @@ Console.WriteLine("Hello, World!");
 
 <!-- freecodecamp -->
 <a href="https://www.freecodecamp.org/learn/" alt="fcc" target="_blank">
-<img src="./assets/fcc_primary_large.svg" width=150 height=50>
+<img src="./assets/fcc_secondary_large.svg" width=150 height=50>
 </a>
 
 <a href="https://www.youtube.com/" alt="yt" target="_blank">
