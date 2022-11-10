@@ -100,43 +100,44 @@ Console.WriteLine("Hello, World!");
 <div align="center">
 
 <!-- ms learn -->
-<a href="#" alt="ms-learn" target="_blank">
+<a href="https://learn.microsoft.com/en-my/" alt="ms-learn" target="_blank">
 <img src="./assets/ms-icon.png" width=150 height=25>
 </a>
 
 <!-- edx -->
-<a href="#" alt="edx" target="_blank">
+<a href="https://courses.edx.org/dashboard" alt="edx" target="_blank">
 <img src="./assets/edx-icon.svg" width=100 height=50>
 </a>
 
 <!-- coursera -->
-<a href="#" alt="coursera" target="_blank">
+<a href="https://www.coursera.org/home" alt="coursera" target="_blank">
 <img src="./assets/coursera-icon.svg" width=150 height=50>
 </a>
 
 </br>
 
 <!-- udemy -->
-<a href="#" alt="udemy" target="_blank">
+<a href="https://www.udemy.com/" alt="udemy" target="_blank">
 <img src="./assets/logo-udemy.svg" width=150 height=50>
 </a>
 
 <!-- odin-project -->
-<a href="#" alt="odin" target="_blank">
+<a href="https://www.theodinproject.com/dashboard" alt="odin" target="_blank">
 <img src="./assets/odin-project.svg" width=50 height=50>
 </a>
 
 <!-- freecodecamp -->
-<a href="#" alt="fcc" target="_blank">
+<a href="https://www.freecodecamp.org/learn/" alt="fcc" target="_blank">
 <img src="./assets/fcc_primary_large.svg" width=150 height=50>
 </a>
 
-<a href="#" alt="yt" target="_blank">
+<a href="https://www.youtube.com/" alt="yt" target="_blank">
 <img src="./assets/yt" width=150 height=50>
 </a>
 </div>
 
 </br>
+
 <p align=center>
 <a href="#" alt="Afiq GitHub Statistics">
 <img src="https://github-readme-stats.vercel.app/api?username=afiqhafizuddin&theme=prussian&show_icons=true">
