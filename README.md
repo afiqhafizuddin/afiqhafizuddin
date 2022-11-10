@@ -114,6 +114,8 @@ Console.WriteLine("Hello, World!");
 <img src="./assets/coursera-icon.svg" width=150 height=50>
 </a>
 
+</br>
+
 <!-- udemy -->
 <a href="#" alt="udemy" target="_blank">
 <img src="./assets/logo-udemy.svg" width=150 height=50>
@@ -125,9 +127,13 @@ Console.WriteLine("Hello, World!");
 </a>
 
 <!-- freecodecamp -->
-<a href="#" alt="odin" target="_blank">
+<a href="#" alt="fcc" target="_blank">
 <img src="./assets/fcc_primary_large.svg" width=150 height=50>
-</a
+</a>
+
+<a href="#" alt="yt" target="_blank">
+<img src="./assets/yt" width=150 height=50>
+</a>
 </div>
 
 </br>
