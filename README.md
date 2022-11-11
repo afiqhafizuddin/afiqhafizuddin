@@ -148,10 +148,3 @@ Console.WriteLine("Hello, World!");
 </p>
 
 <!-- contact section  -->
-
-<div align="center">
-<FORM>
-<INPUT TYPE="button" VALUE="Email Me" onClick="parent.location='mailto:hafizuddinafiq@gmail?subject=Hi!, I've stumbled upon your account on GitHub&cc=afiqhafizuddin34@gmail.com'">
-</FORM>
-
-</div>
